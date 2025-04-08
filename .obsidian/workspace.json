@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "b1adc57af17455d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "154106c4377a745d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84337a09d43bfe5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AGI リスク論.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AGI リスク論"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ea13ea0ca6f5727",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7329416a01ba491",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6043242eaf2c62f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b7f138f03c10fcd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ab3fe5bded574824",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.50043487548828
+  },
+  "right": {
+    "id": "c950559c25fc7a37",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e517434f773e25f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5abd3d086d044b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AGI リスク論.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AGI リスク論"
+            }
+          },
+          {
+            "id": "3e752fa344748d77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "9ebe37d807bf24b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ed7fcd3464e55fe0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "84337a09d43bfe5c",
+  "lastOpenFiles": [
+    "2025-04-08.md",
+    "Canvas.canvas",
+    "Welcome.md",
+    "obsidian-git/main.js",
+    "obsidian-git/styles.css",
+    "obsidian-git/manifest.json",
+    "obsidian-git",
+    "obsidian-git-2.32.1.zip",
+    "Untitled 1.canvas",
+    "Clippings/Obsidian Web Clipper.md",
+    "Clippings/Push Provisioning.md",
+    "AGI リスク論.md",
+    "第３回 AIロボット駆動科学研究会 @東京大学工学部２号館.md",
+    "Cline系統.md",
+    "create a link.md",
+    "Clippings"
+  ]
+}
