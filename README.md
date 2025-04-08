@@ -1,0 +1,3 @@
+- Public contents only
+- Plugins
+	- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git)
